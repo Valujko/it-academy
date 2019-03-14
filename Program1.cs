@@ -27,7 +27,7 @@ namespace HW3
                         break;
                     case 3:
                         ThirdTask();
-                        break;   
+                        break;
                     case 4:
                         FoursTask();
                         break;
