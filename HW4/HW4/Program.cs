@@ -10,6 +10,11 @@ namespace HW4
     {
         static void Main(string[] args)
         {
+            for (char ch = 'z'; ch >= 'a'; Console.WriteLine(ch--)); //Just for fun :)
+
+            for (char ch = 'z'; ch >= 'a'; ch--)
+                Console.Write(ch);
+            Console.ReadKey();
         }
     }
 }
